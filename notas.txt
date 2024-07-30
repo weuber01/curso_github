@@ -1,0 +1,4 @@
+aluno1 10
+aluno2 9.0
+aluno3 7.0
+aluno4 2.0
